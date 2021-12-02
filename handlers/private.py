@@ -11,21 +11,21 @@ async def start(_, message: Message):
     
     await message.reply_text(
         f"""**
-𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐝𝐯𝐚𝐧𝐜𝐞 🥀𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐌𝐮𝐬𝐢𝐜 🎶 𝐁𝐨𝐭 \n𝐑𝐮𝐧 𝐎𝐧 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 🥀 𝐕𝐩𝐬 💫𝐒𝐞𝐫𝐯𝐞𝐫 🌎 \n𝐅𝐞𝐞𝐥 ❤️ 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐌𝐮𝐬𝐢𝐜 🎧 𝐈𝐧 𝐕𝐜 😎🤟 \n⭐𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 A๛4๛・AMAN XD ༆ YADAV JI ༻⍟↳𝐀𝐂𝐅 𝐅𝐈𝐆𝐇𝐓𝐄𝐑↰⍟
+😈DÛSRÔ SE JÂLNE WÂLE HÚM NHÎ ÂÚR HÛM PR MÂRNE WÂLE KÂM NHÎ  S๛4๛・SÂHIL๛YÂDÂV๛Ôfficiâl BÔLTÎ PÚBLÎC😈💥💥💖💖💖 @S_4_SAHIL_Official
 
-](https://t.me/Its_Hexor)**
+(@S_4_SAHIL)**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/A_4_AMAN_offixial")
+                        "❰𝗢𝘄𝗻𝗲𝗿❱", url="https://t.me/S_4_SAHIL_Official")
                   ],[
                     InlineKeyboardButton(
                         "❰𝗦𝘂𝗽𝗽𝗼𝗿𝘁🌎❱", url="https://t.me/A_4_AMAN_offixial"
                     ),
                     InlineKeyboardButton(
-                        "❰𝗚𝗿𝗼𝘂𝗽🚩❱", url="https://t.me/A_4_AMAN_offixial"
+                        "❰𝗚𝗿𝗼𝘂𝗽🚩❱", url="https://t.me/S_4_SAHIL"
                     )
                 ],[ 
                     InlineKeyboardButton(
@@ -38,12 +38,12 @@ async def start(_, message: Message):
 
 @Client.on_message(filters.command("Esport") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**Acf 𝐌𝐮𝐬𝐢𝐜'𝐗 𝐎𝐧𝐥𝐢𝐧𝐞\n🌠ACF_𝐎𝐩 🥀**""",
+      await message.reply_text("""**😈S๛4๛・SÂHIL๛YÂDÂV๛Ôfficiâl 𝐌𝐮𝐬𝐢𝐜'𝐗 𝐎𝐧𝐥𝐢𝐧𝐞\n🌠S๛4๛・SÂHIL๛YÂDÂV๛Ôfficiâl 𝐎𝐩 🥀**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "𝗦𝘂𝗽𝗽𝗼𝗿𝘁❤️", url="https://t.me/ACF_FIGHTERR")
+                        "𝗦𝘂𝗽𝗽𝗼𝗿𝘁❤️", url="https://t.me/A_4_AMAN_Offixial")
                 ]
             ]
         )
